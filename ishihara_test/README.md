@@ -1,4 +1,4 @@
-Open this file by an browser we can see a screen with blut dots.
+Open this file by an browser we can see a screen with blue dots.
 ![image](https://user-images.githubusercontent.com/80806913/167874179-35f10fd6-c601-4a6e-8227-a1e6dd6c5144.png)
 
 Then we open this file by notepad
